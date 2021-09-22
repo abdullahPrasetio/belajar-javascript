@@ -1,0 +1,20 @@
+Dom adalah antarmuka pemrogramman untuk html yang merepresentasikan 
+halaman web, sehingga program dapat mengubah dan memanipulasi strukturnya
+--Mozilla--
+
+--Document--
+Merupakan halaman isi dari website
+
+--Object--
+Object adalah sebuah type data yang ada pada javacript
+ada property dan method
+
+--Model--
+representasi dari sesuatu
+
+
+Dom adalah representasi element html yang ada pada 
+document menjadi object
+--Sandhika Galih--
+
+dom tersimpan dalam memory pohon hirarki dom tree dom

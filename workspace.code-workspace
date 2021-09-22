@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "js_dasar",
+			"path": "js_dasar"
+		},
+		{
+			"name": "jd_dom",
+			"path": "jd_dom"
+		},
+		{
+			"name": "js_lanjut",
+			"path": "js_lanjut"
+		},
+		{
+			"name": "Codewars",
+			"path": "../../Codewars"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "js_lanjut"
+	}
+}
